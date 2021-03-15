@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning swift and swiftUI
 - 💞️ I’m looking to collaborate on great apps for iOS writen in swift or swiftUI
 - 📫 How to reach me: 
-- Instagram: [@DeynLaengsten](instagram.com/DeynLaengsten "@DeynLaengsten")
+- Instagram: [@DeynLaengsten](https://www.instagram.com/DeynLaengsten "@DeynLaengsten")
 
 <!---
 DeynLaengsten/DeynLaengsten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
